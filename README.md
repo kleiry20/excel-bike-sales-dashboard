@@ -6,6 +6,8 @@ Alex The Analyst’s Excel series.
 ## 📊 Dashboard Preview
 ![Dashboard](dashboard-overview.png)
 
+![Dashboard](dashboard-overview2.png)
+
 ## 🧠 Business Questions Answered
 - Which age group purchases bikes the most?
 - How income impacts bike purchases
