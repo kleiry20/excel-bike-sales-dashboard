@@ -4,7 +4,7 @@ This project is an interactive Excel dashboard created after completing
 Alex The Analyst’s Excel series.
 
 ## 📊 Dashboard Preview
-![Dashboard](screenshots/dashboard-overview.png)
+![Dashboard](dashboard-overview.png)
 
 ## 🧠 Business Questions Answered
 - Which age group purchases bikes the most?
